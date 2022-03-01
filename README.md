@@ -18,7 +18,7 @@ The following is a summary of our analysis of Pewlett Hackard’s HR review of p
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Ideally there would be 72,458 roles (overall) ready to be filled as replacement for those entering the “silver tsunami”. That’s a hefty number for any HR department. 
 
-![Employees Leaving by Dept Code](https://user-images.githubusercontent.com/96449605/156256787-d382698a-7aa2-480c-9c78-a680df0![Employees Leaving by Dept Code](https://user-images.githubusercontent.com/96449605/156256787-d382698a-7aa2-480c-9c78-a680df0923e5.png)
+![Employees Leaving by Dept Code](https://user-images.githubusercontent.com/96449605/156257060-aa6f1c80-354d-4009-bd89-0aa116fb28d3.png)
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 The short answer is no. Currently there are only 1,549 employees on the mentorship eligibility list. That’s roughly a 1:47 ratio of mentors to staff. Obviously not an ideal. This massive outflow of retiring employees and influx of new staff to replace them can be mitigated through a phased approach over the course of the next few years.
